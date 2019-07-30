@@ -1,0 +1,2 @@
+# vanitygen
+llamasoft/securecoin-vanitygen
